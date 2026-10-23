@@ -1,1 +1,3 @@
-Small project for static text analysis
+# BookWorm
+
+A small text analyzer
